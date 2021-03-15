@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NesEmu", "NesEmu\NesEmu.vcxproj", "{F786B73E-F808-48CD-9435-B4B0B5F4C2EA}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "OpcodeMacro", "OpcodeMacro\OpcodeMacro.pyproj", "{28E554E9-9A0F-41A4-A071-F421448B795E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F786B73E-F808-48CD-9435-B4B0B5F4C2EA}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{F786B73E-F808-48CD-9435-B4B0B5F4C2EA}.Debug|x64.ActiveCfg = Debug|x64
+		{F786B73E-F808-48CD-9435-B4B0B5F4C2EA}.Debug|x64.Build.0 = Debug|x64
+		{F786B73E-F808-48CD-9435-B4B0B5F4C2EA}.Debug|x86.ActiveCfg = Debug|Win32
+		{F786B73E-F808-48CD-9435-B4B0B5F4C2EA}.Debug|x86.Build.0 = Debug|Win32
+		{F786B73E-F808-48CD-9435-B4B0B5F4C2EA}.Release|Any CPU.ActiveCfg = Release|Win32
+		{F786B73E-F808-48CD-9435-B4B0B5F4C2EA}.Release|x64.ActiveCfg = Release|x64
+		{F786B73E-F808-48CD-9435-B4B0B5F4C2EA}.Release|x64.Build.0 = Release|x64
+		{F786B73E-F808-48CD-9435-B4B0B5F4C2EA}.Release|x86.ActiveCfg = Release|Win32
+		{F786B73E-F808-48CD-9435-B4B0B5F4C2EA}.Release|x86.Build.0 = Release|Win32
+		{28E554E9-9A0F-41A4-A071-F421448B795E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28E554E9-9A0F-41A4-A071-F421448B795E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{28E554E9-9A0F-41A4-A071-F421448B795E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{28E554E9-9A0F-41A4-A071-F421448B795E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28E554E9-9A0F-41A4-A071-F421448B795E}.Release|x64.ActiveCfg = Release|Any CPU
+		{28E554E9-9A0F-41A4-A071-F421448B795E}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97B59626-0408-4926-B29E-07B78468F836}
+	EndGlobalSection
+EndGlobal
